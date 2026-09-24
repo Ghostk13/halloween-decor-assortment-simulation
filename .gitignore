@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Superseded Simio work and unrelated/unreviewed local files
+Case Study Model.*
+Case Study Model_Model_trace.csv
+SIMIO_SHELF_CONFIGURATION_GUIDE.md
+Hometown AI Innovation Challenge Case Study_Instructions - Students.pdf
+files.zip
+*.jpg
+
+# Real case-study workbook is withheld from the repo (kept locally only)
+Halloween_Line Review Case Study_Data*.xlsx

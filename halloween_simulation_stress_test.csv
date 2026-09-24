@@ -1,0 +1,10 @@
+Demand Case,Config,Profit per Facing,Combined Total Profit
+downside,A - Current (Baseline),43001.26511085386,968068.3951841686
+downside,B - High-Margin Focus,36536.911778124275,878265.3395168447
+downside,C - Scenario 2 (Recommended),48564.216408523906,1046472.6275434948
+base,A - Current (Baseline),61233.45993167118,1376962.0258699998
+base,B - High-Margin Focus,52256.67471153846,1261971.434075938
+base,C - Scenario 2 (Recommended),69246.35559049435,1495676.8501875966
+upside,A - Current (Baseline),67949.79939228564,1538232.1875248167
+upside,B - High-Margin Focus,58367.55937629938,1409042.5588401358
+upside,C - Scenario 2 (Recommended),77246.43934309308,1675012.039446815

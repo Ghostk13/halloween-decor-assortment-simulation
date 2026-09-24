@@ -1,0 +1,50 @@
+item,channel,facings,position,units_sold_sim,revenue_sim,gm_sim,Config
+12 ft Giant Skeleton,in-store,3.0,eye,2065,617435.0,350573.4615384615,A - Current (Baseline)
+7 ft Animated Reaper,in-store,1.0,eye,1536,428544.0,250866.1621621622,A - Current (Baseline)
+9 ft Animated Pirate Ship,in-store,2.0,mid,596,237804.0,100723.99999999999,A - Current (Baseline)
+9.5 ft Licensed Sandworm Inflatable,in-store,1.0,mid,707,190183.0,64494.111111111095,A - Current (Baseline)
+6 ft Scarecrow Inflatable,in-store,1.0,mid,1464,86376.0,30981.405405405407,A - Current (Baseline)
+10.5 ft Licensed Character Inflatable,in-store,2.0,mid,968,144232.0,6095.783783783783,A - Current (Baseline)
+5.5 ft LED Skeleton Pony,in-store,1.0,waist,805,103845.0,66278.33333333333,A - Current (Baseline)
+24 in Metal Tombstone,in-store,1.0,waist,1276,31874.48,25848.924444444445,A - Current (Baseline)
+5 ft Skeleton Tombstone,in-store,1.0,waist,763,113687.0,69602.55555555555,A - Current (Baseline)
+LED Fog Machine,in-store,1.0,floor,207,12213.0,608.4545454545454,A - Current (Baseline)
+Pathway Light Set (6-piece),in-store,1.0,floor,593,20743.14,13050.167027027024,A - Current (Baseline)
+12 ft Reaper Inflatable,in-store,1.0,floor,204,24276.0,612.0000000000001,A - Current (Baseline)
+16 ft Inflatable Haunted Archway,online,,online,941,187259.0,90615.75675675675,A - Current (Baseline)
+Life-Size Animated Butler,online,,online,1052,419748.0,253642.73684210528,A - Current (Baseline)
+Animated Witch Cauldron,online,,online,1096,86584.0,51038.05405405406,A - Current (Baseline)
+Halloween Doormat Assortment,online,,online,563,11248.74,1930.1193103448275,A - Current (Baseline)
+Animated Talking Portrait,in-store,1.0,eye,1742,69645.15999999999,57451.15999999999,B - High-Margin Focus
+24 in Light-Up Pumpkin Stack,in-store,1.0,eye,1663,49856.74,34889.74,B - High-Margin Focus
+8 ft Inflatable Black Cat,in-store,1.0,eye,1194,94326.0,46566.0,B - High-Margin Focus
+12 ft Giant Skeleton,in-store,3.0,mid,1592,476008.0,270272.6153846154,B - High-Margin Focus
+9 ft Animated Pirate Ship,in-store,2.0,mid,617,246183.0,104272.99999999999,B - High-Margin Focus
+7 ft Animated Reaper,in-store,1.0,waist,853,237987.0,139315.64864864867,B - High-Margin Focus
+5.5 ft LED Skeleton Pony,in-store,1.0,waist,836,107844.0,68830.66666666667,B - High-Margin Focus
+24 in Metal Tombstone,in-store,1.0,waist,1336,33373.28,27064.39111111111,B - High-Margin Focus
+6 ft Scarecrow Inflatable,in-store,1.0,floor,483,28497.0,10221.324324324325,B - High-Margin Focus
+9.5 ft Licensed Sandworm Inflatable,in-store,1.0,floor,228,61332.0,20798.666666666664,B - High-Margin Focus
+Pathway Light Set (6-piece),in-store,1.0,floor,630,22037.399999999998,13864.427027027023,B - High-Margin Focus
+Solar Pathway Ghosts (4-pc),in-store,1.0,floor,370,16642.6,10722.599999999999,B - High-Margin Focus
+5 ft Skeleton Tombstone,in-store,1.0,floor,349,52001.0,31836.555555555555,B - High-Margin Focus
+Life-Size Animated Butler,online,,online,1134,452466.0,273413.36842105264,B - High-Margin Focus
+16 ft Inflatable Haunted Archway,online,,online,979,194821.0,94275.05405405404,B - High-Margin Focus
+Animated Witch Cauldron,online,,online,1110,87690.0,51690.00000000001,B - High-Margin Focus
+10.5 ft Licensed Character Inflatable,online,,online,1030,153470.0,6486.216216216216,B - High-Margin Focus
+12 ft Giant Skeleton,in-store,3.0,eye,1975,590525.0,335294.23076923075,C - Scenario 2 (Recommended)
+7 ft Animated Reaper,in-store,1.0,eye,1479,412641.0,241556.6756756757,C - Scenario 2 (Recommended)
+5.5 ft LED Skeleton Pony,in-store,1.0,eye,1627,209883.0,133956.33333333334,C - Scenario 2 (Recommended)
+5 ft Skeleton Tombstone,in-store,1.0,mid,1125,167625.0,102624.99999999999,C - Scenario 2 (Recommended)
+9 ft Animated Pirate Ship,in-store,2.0,mid,587,234213.0,99202.99999999999,C - Scenario 2 (Recommended)
+9.5 ft Licensed Sandworm Inflatable,in-store,1.0,mid,706,189914.0,64402.888888888876,C - Scenario 2 (Recommended)
+Animated Talking Portrait,in-store,1.0,waist,942,37661.159999999996,31067.159999999996,C - Scenario 2 (Recommended)
+24 in Metal Tombstone,in-store,1.0,waist,1229,30700.420000000002,24896.80888888889,C - Scenario 2 (Recommended)
+Pathway Light Set (6-piece),in-store,1.0,waist,1180,41276.399999999994,25968.291891891884,C - Scenario 2 (Recommended)
+8 ft Inflatable Black Cat,in-store,1.0,floor,331,26149.0,12909.0,C - Scenario 2 (Recommended)
+24 in Light-Up Pumpkin Stack,in-store,1.0,floor,435,13041.300000000001,9126.300000000001,C - Scenario 2 (Recommended)
+12 ft Inflatable Haunted Tree,in-store,2.0,floor,296,52984.0,26935.999999999996,C - Scenario 2 (Recommended)
+Life-Size Animated Butler,online,,online,998,398202.0,240623.05263157896,C - Scenario 2 (Recommended)
+16 ft Inflatable Haunted Archway,online,,online,920,183080.0,88593.5135135135,C - Scenario 2 (Recommended)
+Animated Witch Cauldron,online,,online,1116,88164.0,51969.40540540541,C - Scenario 2 (Recommended)
+10.5 ft Licensed Character Inflatable,online,,online,1040,154960.0,6549.189189189188,C - Scenario 2 (Recommended)
