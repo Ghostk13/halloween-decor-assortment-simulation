@@ -6,6 +6,21 @@ The simulation replaced an earlier Simio model. It reads last season's real perf
 
 ![Recommended in-store layout](halloween_shelf_layout.png)
 
+## My role
+
+This was my entry in the Hometown AI Innovation Challenge, a Home Depot merchandising case competition. It finished **2nd place**.
+
+I directed the build using Claude Code, Anthropic's AI coding tool. I supplied the case brief, the purchase-logic inputs (arrival and browse-time distributions, the impulse vs. goal-oriented customer mix, shelf-position and category multipliers), and the shelf configurations to compare. Claude Code wrote the Python, and I steered it through each round of changes: the sensitivity analysis, shelf-position optimization, stress test, and graphics.
+
+What I did myself, beyond prompting:
+
+- **Questioned the model rather than accepting its output.** I asked whether star ratings should count (tested: under a 1.3% effect, so left out of the base model) and whether in-store vs. online performance had actually been compared. It hadn't been done validly, and that is now documented as a limitation.
+- **Caught gaps in the recommendation.** I noticed several supplier candidates had no recommendation at all, which led to testing them and to the Haunted Tree swap.
+- **Cross-checked against my team's scenario workbook** and brought its channel evidence and downside case into the model. Where they still disagree (for example, Haunted Tree online vs. in-store), the conflict is recorded in [HANDOFF.md](HANDOFF.md) instead of being smoothed over.
+- **Made the final calls** on which swaps to adopt and how results were presented.
+
+The model's constants beyond the inputs I specified (the base-probability scale and the per-facing visibility bump) are modeling assumptions, not validated against real sales, and are listed under [Model in brief](#model-in-brief).
+
 ## What the simulation does
 
 1. **Loads the case data** (a synthetic sample is bundled; the real workbook is withheld) — 16 current items (price, cost, margin, full-price sell-through, ratings, store vs. online units) and 10 new supplier candidates.
